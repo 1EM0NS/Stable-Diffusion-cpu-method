@@ -11,4 +11,4 @@ sd_hijack_optimizations.py 和shared.py 替换放在stable-diffusion-webui-maste
 
 --- 
 甚至是G4560
-![image]([xxx.png](https://github.com/1EM0NS/Stable-Diffusion-cpu-method/blob/main/G4560.png))
+![image]([xxx.png](https://github.com/1EM0NS/Stable-Diffusion-cpu-method/blob/main/G4560.png)
