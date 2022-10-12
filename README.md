@@ -6,7 +6,9 @@ sd_hijack_optimizations.py 和shared.py 替换放在stable-diffusion-webui-maste
 
 实测10875h 512x512 20采样次数 3min一张图片
 
-刚调好，也许会有些问题
+模型全部放在内存里，所以没有显存一说
+
+你的内存大小决定了你能跑多大的图
  --- 
  - emm，改改改改，webui-user.bat也替换一下
 
