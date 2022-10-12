@@ -1,4 +1,4 @@
-# Stable-Diffusion-cpu-method
+# Stable-Diffusion-cpu-method--Web-Ui
 
 让你的CPU也可以跑二次猿！
 
