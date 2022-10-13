@@ -2,9 +2,12 @@
 
 让你的CPU也可以跑二次猿！
 
-## 只需要将webui-cpu.bat放进文件目录运行即可，其他老文件不用管了！！！！！！！！
+## 看word，目前为止通用的，开源作者更新太频繁了我要麻了
 
-~~sd_hijack_optimizations.py 和shared.py 替换放在stable-diffusion-webui-master\modules内~~
+
+
+
+
 
 实测10875h 512x512 20采样次数 3min一张图片
 
@@ -16,3 +19,7 @@
 
 甚至是G4560
 ![image](https://github.com/1EM0NS/Stable-Diffusion-cpu-method/blob/main/G4560.png)
+
+
+
+~~sd_hijack_optimizations.py 和shared.py 替换放在stable-diffusion-webui-master\modules内~~
